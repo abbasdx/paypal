@@ -1,9 +1,6 @@
 package com.paypal.user_service.service;
 
 import com.paypal.user_service.entity.User;
-import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Service;
-
 import java.util.List;
 import java.util.Optional;
 
